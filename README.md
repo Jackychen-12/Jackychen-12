@@ -3,8 +3,7 @@
   <img src="assets/hero-light.svg" width="100%" alt="Hi, I'm Jacky — AI Product Manager · PKU '27 — PRD → BUILD → SHIP" />
 </picture>
 
-- 🎯 专注 **AI 产品 / AI Agent**，从需求到能跑的产品，一个人闭环
-- 🧩 做过 **AI 商业化**（搜索广告、GEO 内容投放）和 **0→1 原型**
+- 🎯 专注 **AI 产品 / AI Agent**，从需求到能跑的产品，商业化闭环
 - 📈 也做过 **投资分析**，目前在 **真格**
 - 📫 [chenkeyu12@stu.pku.edu.cn](mailto:chenkeyu12@stu.pku.edu.cn) · [aisearches.cc](https://aisearches.cc/)
 
