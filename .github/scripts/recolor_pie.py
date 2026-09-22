@@ -12,14 +12,16 @@ OTHER = "#c9c3b8"  # the grey "other" slice stays neutral
 
 path = sys.argv[1]
 svg = open(path, encoding="utf-8").read()
+# the legend swatches are the only fill="#rrggbb" attributes, listed biggest share first;
+# the pie slices reuse the same hex values inside style="fill: ...", so swap the hex everywhere
 order = []
 for c in re.findall(r'fill="(#[0-9a-fA-F]{6})"', svg):
     if c.lower() not in order:
         order.append(c.lower())
-mapping = {}
 ramp = iter(RAMP)
-for c in order:
-    mapping[c] = OTHER if c == "#444444" else next(ramp, OTHER)
-svg = re.sub(r'fill="(#[0-9a-fA-F]{6})"', lambda m: f'fill="{mapping[m.group(1).lower()]}"', svg)
+mapping = {c: OTHER if c == "#444444" else next(ramp, OTHER) for c in order}
+if mapping:
+    pattern = re.compile("|".join(re.escape(c) for c in mapping), re.IGNORECASE)
+    svg = pattern.sub(lambda m: mapping[m.group(0).lower()], svg)
 open(path, "w", encoding="utf-8").write(svg)
 print(mapping)
