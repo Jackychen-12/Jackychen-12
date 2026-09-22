@@ -25,4 +25,7 @@
 
 </details>
 
-<img src="profile-3d-contrib/profile-3d.svg" width="100%" alt="3D contribution calendar" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackychen-12/Jackychen-12/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Jackychen-12/Jackychen-12/output/snake-light.svg" width="100%" alt="contribution snake" />
+</picture>
