@@ -5,8 +5,8 @@
 
 - 🎯 专注 **AI 产品 / AI Agent**，从需求到能跑的产品，一个人闭环
 - 🧩 做过 **AI 商业化**（搜索广告、GEO 内容投放）和 **0→1 原型**
-- 🛠 最近在写 **Claude Code Skills**：把一套方法论装进一个可安装的技能
-- 📫 cky1148589861@163.com · [aisearches.cc](https://aisearches.cc/)
+- 📈 也做过 **投资分析**，目前在 **真格**
+- 📫 [chenkeyu12@stu.pku.edu.cn](mailto:chenkeyu12@stu.pku.edu.cn) · [aisearches.cc](https://aisearches.cc/)
 
 ### Shipped
 
@@ -26,7 +26,4 @@
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackychen-12/Jackychen-12/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Jackychen-12/Jackychen-12/output/snake-light.svg" width="100%" alt="contribution snake" />
-</picture>
+<img src="profile-3d-contrib/profile-3d.svg" width="100%" alt="3D contribution calendar" />
