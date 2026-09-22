@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"   # daily at 00:00 UTC
   workflow_dispatch:
+  push:
+    paths: [.github/workflows/snake.yml]   # regenerate right away when this file changes
 
 permissions:
   contents: write
