@@ -5,7 +5,7 @@
 
 - 🎯 专注 **AI 产品 / AI Agent**，从需求到能跑的产品，商业化闭环
 - 📈 也做过 **投资分析**，目前在 **真格基金**
-- 📫 [chenkeyu12@stu.pku.edu.cn](mailto:chenkeyu12@stu.pku.edu.cn) · [aisearches.cc](https://aisearches.cc/)
+- 📫 [chenkeyu12@stu.pku.edu.cn](mailto:chenkeyu12@stu.pku.edu.cn) · [LinkedIn](https://www.linkedin.com/in/keyu-chen-jacky/)
 
 ### Shipped
 
