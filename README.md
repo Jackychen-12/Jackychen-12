@@ -31,8 +31,8 @@
 ### Activity
 
 <p>
-  <img src="https://ghstats.dev/api/card?username=Jackychen-12&size=compact&compact_count=4&hide_border=true&bg=FFFFFF&title_color=B9552F&icon_color=B9552F&text=1F2328" height="150" />
-  <img src="https://ghstats.dev/api/langs?username=Jackychen-12&layout=compact&hide_border=true&bg=FFFFFF&title_color=B9552F&text=1F2328" height="150" />
+  <img src="https://ghstats.dev/api/card?username=Jackychen-12&size=compact&compact_count=4&hide_border=true&bg=FFFFFF&title_color=B9552F&icon_color=B9552F&text=1F2328" height="120" />
+  <img src="https://ghstats.dev/api/langs?username=Jackychen-12&layout=compact&hide_border=true&bg=FFFFFF&title_color=B9552F&text=1F2328" height="120" />
 </p>
 
 <picture>
